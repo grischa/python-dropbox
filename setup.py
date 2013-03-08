@@ -30,7 +30,7 @@ else:
     TEST_SUITE = 'tests'
 
 #must be called dropbox-client so it overwrites the older dropbox SDK
-setup(name='dropbox-python-sdk',
+setup(name='python-dropbox',
       version='1.5.1',
       description='Official Dropbox REST API Client',
       author='Dropbox, Inc.',
